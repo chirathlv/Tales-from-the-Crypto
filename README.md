@@ -52,4 +52,8 @@ Built a named entity recognition model for both Bitcoin and Ethereum and then vi
 
 > Bitcoin NER Visualization
 
+![Bitcoin NER Visualization](https://github.com/chirathlv/Tales-from-the-Crypto/blob/main/Images/btc_ner_visualization.PNG)
+
 > Ethereum NER Visualization
+
+![Ethereum NER Visualization](https://github.com/chirathlv/Tales-from-the-Crypto/blob/main/Images/eth_ner_visualization.PNG)
