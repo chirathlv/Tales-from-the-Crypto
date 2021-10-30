@@ -49,3 +49,7 @@ Then produced the Word Clouds for each coin
 ## 3. Named Entity Recognition
 
 Built a named entity recognition model for both Bitcoin and Ethereum and then visualized the tags using SpaCy.
+
+> Bitcoin NER Visualization
+
+> Ethereum NER Visualization
