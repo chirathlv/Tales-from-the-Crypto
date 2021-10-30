@@ -39,3 +39,9 @@ Then NGrams and Frequency Analysis performed
 Then produced the Word Clouds for each coin
 
 > Bitcoin Word Cloud
+
+![Bitcoin Word Cloud](https://github.com/chirathlv/Tales-from-the-Crypto/blob/main/Images/btc_word_cloud.PNG)
+
+> Ethereum Word Cloud
+
+![Ethereum Word Cloud](https://github.com/chirathlv/Tales-from-the-Crypto/blob/main/Images/eth_word_cloud.PNG)
