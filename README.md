@@ -45,3 +45,7 @@ Then produced the Word Clouds for each coin
 > Ethereum Word Cloud
 
 ![Ethereum Word Cloud](https://github.com/chirathlv/Tales-from-the-Crypto/blob/main/Images/eth_word_cloud.PNG)
+
+## 3. Named Entity Recognition
+
+Built a named entity recognition model for both Bitcoin and Ethereum and then visualized the tags using SpaCy.
