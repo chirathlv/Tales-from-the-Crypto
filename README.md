@@ -33,7 +33,7 @@ Used NLTK and python to tokenize the text for each coin. Following techniques us
 
 Then NGrams and Frequency Analysis performed
 
-- Used NLTK to produce the n-grams for each coin
+- Used NLTK to produce the n-grams (n=2) for each coin
 - Listed Top 10 words for each coin
 
 Then produced the Word Clouds for each coin
