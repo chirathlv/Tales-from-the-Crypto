@@ -1,3 +1,5 @@
+![Tales From the Crypto](https://github.com/chirathlv/Tales-from-the-Crypto/blob/main/Images/banner.jpg)
+
 # Tales-from-the-Crypto
 
 Before use, make sure to replace the <INSERT_API_KEY> in .env file with your API key, which can be obtained from this link
